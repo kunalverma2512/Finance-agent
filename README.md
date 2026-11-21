@@ -487,7 +487,7 @@ Future improvements may include:
 
 **Kunal Verma**
 
-Mathematics and Computing graduate focused on:
+Mathematics and Computing student at IIT (ISM) Dhanbad focused on:
 
 * Data Science
 * Machine Learning
