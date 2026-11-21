@@ -1,0 +1,13 @@
+date,description,amount,direction
+2026-10-01,Monthly Company Payroll Salary,3500.00,income
+2026-10-02,House Apartment Rent Transfer,1100.00,expense
+2026-10-03,Blinkit Instant Groceries Store,65.50,expense
+2026-10-05,Shell Fuel Station Petrol Pump,45.00,expense
+2026-10-08,Zomato Restaurant Online Order,32.40,expense
+2026-10-10,Netflix Monthly Subscription,15.99,expense
+2026-10-12,Apollo Pharmacy Medical Store,42.80,expense
+2026-10-15,Swiggy Meal Food Delivery,28.50,expense
+2026-10-18,Electricity Power Utility Bill,85.20,expense
+2026-10-22,Amazon India Retail Shopping,120.00,expense
+2026-10-25,Uber Cab Rideshare Transit,24.50,expense
+2026-10-28,Interest Credited Savings Bank,18.75,income
